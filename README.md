@@ -7,3 +7,6 @@ patika.dev / kodluyoruz.org html eğitiminin ilk ödevi basit bir Web Sayfası o
 * Altına paragraf içerisinde neler yaptığınızı ve nelerden hoşlandığınızı yazabilirsiniz.
 * Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
 * Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
+
+##Sonuç
+![sonuç](htmlodev1.png)
